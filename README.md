@@ -37,9 +37,9 @@ The project is based on the following structure:
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Get your environment ids with env|grep WORK 
-   Change the space-id and space-domain in the https string like this https://SPACEID-3001.SPACEDOMAIN then open  your browser and copy the link.
-   In my case I used https://view6914b2f4-3001.udacity-student-workspaces.com/
+3. - Get your environment ids with env|grep WORK 
+   - Paste the space-id and space-domain as : https://SPACEID-3001.SPACEDOMAIN then open a browser and copy the link.
+   - In my case I used https://view6914b2f4-3001.udacity-student-workspaces.com/
 
 ### License
 * The dataset used in this porject is provided by Figure Eight. Thank you for giving me this opportunity to explore a new domain
